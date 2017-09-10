@@ -1,0 +1,41 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1       localhost
+
+52.84.246.90    d3c33hcgiwev3.cloudfront.net
+52.84.246.252    d3c33hcgiwev3.cloudfront.net
+52.84.246.144    d3c33hcgiwev3.cloudfront.net
+52.84.246.72    d3c33hcgiwev3.cloudfront.net
+52.84.246.106    d3c33hcgiwev3.cloudfront.net
+52.84.246.135    d3c33hcgiwev3.cloudfront.net
+52.84.246.114    d3c33hcgiwev3.cloudfront.net
+52.84.246.90    d3c33hcgiwev3.cloudfront.net
+52.84.246.227    d3c33hcgiwev3.cloudfront.net
+
+2404:6800:4008:802::200e youtube.com
+2404:6800:4008:801::200e google.com
+2620:0:863:ed1a::1 wikipedia.org
+
+#52.22.239.100 instagram.com
+#2406:da00:ff00::22c7:5887 instagram.com
+2406:da00:ff00::3448:c8cf www.instagram.com
