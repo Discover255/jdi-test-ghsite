@@ -2,7 +2,7 @@
 ! Title: MyList
 ! Expires: 7 days
 ! Checksum: v0PCqEwjlQ+YVIR1vpmnNg
-! Version: 0.0
+! Version: 20180117
 ||files.jb51.net/image/sulang_1000.gif
 ||files.jb51.net/image/tengxunyun1229.gif
 jb51.net##.topimg
